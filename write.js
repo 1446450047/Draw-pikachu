@@ -133,7 +133,7 @@ let string = `
   border-radius: 100%;
   background-color: #ff485f;
 }
-/*最后画廉价*/
+/*最后画脸颊*/
 .face {
   position: absolute;
   display: flex;
